@@ -1,12 +1,65 @@
-# React + Vite
+# WhatsApp Clone — React + Vite
+# Live Demo:
+https://rapidquest-tarun.netlify.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Backend Repository:
+https://github.com/tarunmedisetti13/whatsapp_clone_backend
 
-Currently, two official plugins are available:
+# Overview
+This is a WhatsApp-like chat application built using React and Vite for the frontend, designed to demonstrate a clean, responsive UI and basic chat functionalities. For simplicity, this demo uses a fixed set of sample users and does not implement real-time features via sockets.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Features
+1. User-friendly chat interface with smooth navigation
 
-## Expanding the ESLint configuration
+2. Emoji picker integration for expressive messaging
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+3. Responsive design powered by Tailwind CSS
+
+4. Sample backend API integration with Axios
+
+5. Demo users for quick login and testing
+
+# Demo Users
+To explore the application, please log in using one of the following sample phone numbers:
+
+#  9999900001
+
+# 9999900002
+
+# 9999900003
+
+# 9999900004
+
+# 9999900005
+
+# Running the Frontend Locally
+Follow these steps to run the project on your machine:
+
+# Clone the repository
+
+git clone https://github.com/tarunmedisetti13/whatsapp_clone_frontend
+
+cd <your-frontend-folder>
+
+# Install dependencies
+```
+  npm install react react-dom react-router-dom axios react-icons
+  
+  npm install tailwindcss @tailwindcss/vite
+  
+  npm install emoji-picker-react
+```
+  
+# Start the development server
+
+   npm run dev
+   
+Open your browser and navigate to the local development URL (usually http://localhost:5173).
+
+#Thank you for checking out my WhatsApp Clone application! Feel free to explore the code and live demo.
+
+# Your feedback is always appreciated. Contact me for more details (tarunmedisetti13@gmail.com)
+
+
+
+
