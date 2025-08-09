@@ -65,7 +65,10 @@ Open your browser and navigate to the local development URL (usually http://loca
 
 #Thank you for checking out my WhatsApp Clone application! Feel free to explore the code and live demo.
 
-# Your feedback is always appreciated. Contact me for more details (tarunmedisetti13@gmail.com)
+# Your feedback is always appreciated. 
+
+Contact me for more details 
+```tarunmedisetti13@gmail.com```
 
 
 
