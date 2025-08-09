@@ -36,10 +36,15 @@ To explore the application, please log in using one of the following sample phon
 Follow these steps to run the project on your machine:
 
 # Clone the repository
+```
 
 git clone https://github.com/tarunmedisetti13/whatsapp_clone_frontend
 
 cd <your-frontend-folder>
+
+npm install
+
+```
 
 # Install dependencies
 ```
@@ -51,8 +56,10 @@ cd <your-frontend-folder>
 ```
   
 # Start the development server
+```
 
    npm run dev
+```
    
 Open your browser and navigate to the local development URL (usually http://localhost:5173).
 
